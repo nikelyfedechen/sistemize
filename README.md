@@ -1,7 +1,20 @@
 # Systemize
-🚧 Aguarde, em construção.  
 
-### 💡 Design Systems Repo  
-Explore esta fonte para encontrar uma variedade de componentes, diretrizes de design e exemplos de implementação de sistemas de design de alto nível, utilizados como referência e inspiração por profissionais em todo o mundo:
+Sistemas de design desempenham um papel fundamental na criação de produtos digitais consistentes e de alta qualidade. Este repositório foi criado para ser uma fonte central de recursos, oferecendo insights, ferramentas, exemplos e orientações para facilitar o processo de desenvolvimento, ou obtenção de novas ideias para aprimoramento, de Design Systems.
 
-Acesse: [Design Systems Repo](https://designsystemsrepo.com/design-systems/).
+### Por que Design Systems?
+
+- **Consistência:** Garanta uma experiência de usuário uniforme em todos os produtos e plataformas.
+- **Eficiência:** Economize tempo e recursos com a reutilização de componentes e padrões de design.
+- **Escalabilidade:** Facilite a colaboração e a manutenção à medida que seus produtos e equipes crescem.
+
+### Recursos que estarão Disponíveis
+
+- 🔍 **Guia de Início Rápido:** Um guia passo a passo para ajudá-lo a começar a criar seu próprio Design System a partir do zero.
+   
+- 📝 **Exemplos e Templates:** Modelos e exemplos de Design Systems para inspiração e referência durante o desenvolvimento.
+- **...E muito mais, aguarde!**
+
+## 📨 Contato
+
+Para dúvidas, sugestões ou feedback, entre em contato através do [fedechenikely@gmail.com](mailto:fedechenikely@gmail.com).
