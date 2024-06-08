@@ -15,6 +15,9 @@ Sistemas de design desempenham um papel fundamental na criação de produtos dig
 - 📝 **Exemplos e Templates:** Modelos e exemplos de Design Systems para inspiração e referência durante o desenvolvimento.
 - **...E muito mais, aguarde!**
 
-## 📨 Contato
+### 📨 Contato
 
-Para dúvidas, sugestões ou feedback, entre em contato através do [fedechenikely@gmail.com](mailto:fedechenikely@gmail.com).
+Para dúvidas, sugestões ou feedback, entre em contato através do [fedechenikely@gmail.com](mailto:fedechenikely@gmail.com).  
+  
+--- 
+<sub>Criado por uma brasileira 🇧🇷</sub>
