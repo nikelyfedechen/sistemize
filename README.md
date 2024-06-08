@@ -8,7 +8,7 @@ Sistemas de design desempenham um papel fundamental na criação de produtos dig
 - **Eficiência:** Economize tempo e recursos com a reutilização de componentes e padrões de design.
 - **Escalabilidade:** Facilite a colaboração e a manutenção à medida que seus produtos e equipes crescem.
 
-### Recursos que estarão Disponíveis
+### Recursos Disponíveis
 
 - 🔍 **Guia de Início Rápido:** Um guia passo a passo para ajudá-lo a começar a criar seu próprio Design System a partir do zero.
    
