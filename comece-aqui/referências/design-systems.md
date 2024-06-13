@@ -12,6 +12,7 @@
 - [Lightning Design System (Salesforce)](https://www.lightningdesignsystem.com/)
 - [Material Design - Google’s open-source design system](https://m3.material.io/)
 - [Mondrian Design System (Operadora Claro)](https://mondrian.claro.com.br/)
+- [Padrão Digital de Governo do Brasil](https://www.gov.br/ds/home)
 - [Shopify Polaris Design System](https://polaris.shopify.com/)
 - [Spectrum - Adobe’s Design System](https://spectrum.adobe.com/)
 - [Spotify Design System](https://spotify.design/article/reimagining-design-systems-at-spotify)
