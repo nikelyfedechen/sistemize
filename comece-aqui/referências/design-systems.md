@@ -7,6 +7,7 @@
 - [Carbon Design System](https://carbondesignsystem.com/)
 - [Evergreen Design System](https://evergreen.segment.com/)
 - [GaYa – DS Natura & Co](https://ds.natura.design/0013acde3/p/32bf95-gaya--ds-natura-co)
+- [Herokai - Design system Heroku](https://design.herokai.com/)
 - [Hunt Design System](https://www.designsystemhunt.com/)
 - [Liferay Lexicon Design System](https://liferay.design/lexicon/)
 - [Lightning Design System (Salesforce)](https://www.lightningdesignsystem.com/)
